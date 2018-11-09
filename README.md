@@ -11,7 +11,7 @@ or more of the following criteria:
   2. The Tweet contains “pump” and either “register” or “join” (referring bots asking to join and/or
 register for fraudulent pump-and-dump schemes).
   3. The Tweet contains more than 14 hashtags (Wright and Anise 2018).
-  4. The Tweet contains more than 14 ticker symbols (See Figure 2).
+  4. The Tweet contains more than 14 ticker symbols 
   5. The platform source of the Tweet contains “bot”.
   6. The user follows less than 1000 accounts and the ratio between the number of followed
 accounts and accounts that follow that user is larger than ten (Wright and Anise 2018).
